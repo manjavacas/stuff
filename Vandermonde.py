@@ -9,7 +9,7 @@ for i in range(0, n):
     for j in range(0, n):
         Matrix[i][j] = (i+1)**j
 
-# Mostrar matriz
+# Mostrar matriz de Vandermonde generada
 for i in range(n):
     for j in range(n):
         print(Matrix[i][j], end='\t')

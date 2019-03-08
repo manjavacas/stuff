@@ -1,4 +1,3 @@
-package p3;
 
 import java.util.Arrays;
 import Utilidades.*;
@@ -61,7 +60,7 @@ public class Baldosas_voraz {
 		int n_tipos;
 		int[] baldosas;
 
-		n_tipos = leer.entero("Introducir número de tipos de baldosa: ");
+		n_tipos = leer.entero("Introducir nÃºmero de tipos de baldosa: ");
 
 		baldosas = new int[n_tipos];
 

@@ -1,5 +1,5 @@
 /** Clase para poder leer del teclado cualquier dato del tipo que sea de los siguientes:
-  * Entero, Double, Float, Cadena, Car·cter, Boolean
+  * Entero, Double, Float, Cadena, Car√°cter, Boolean
   */
 
 package Utilidades;
@@ -8,9 +8,9 @@ import java.util.*;
 
 public class leer{
 
-    private static final Scanner TECLADO=new Scanner(System.in);
-    /** Define el teclado como est·tico para que no haya que crear ning˙n objeto de la clase
-      * Leer y asÌ poder utilizar sus mÈtodos
+    private static final Scanner TECLADO = new Scanner(System.in);
+    /** Define el teclado como est√°tico para que no haya que crear ning√∫n objeto de la clase
+      * Leer y as√≠ poder utilizar sus m√©todos
       */
       public static void p(String s){
           System.out.println(s);

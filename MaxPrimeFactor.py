@@ -1,7 +1,7 @@
 '''
 Created on 19 ene. 2019
 
-@author: Antonio
+@author: Antonio Manjavacas
 
 Largest prime factor of N
 

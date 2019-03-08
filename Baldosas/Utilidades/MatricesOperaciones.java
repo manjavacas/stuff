@@ -21,4 +21,4 @@ public class MatricesOperaciones {
 		return s;
 	}
 
-}// MatricesOperaciones
+}

@@ -36,7 +36,7 @@ public class CambioMonedas {
 		System.out.println("\nMejor solucion: " + solucion);
 	}
 
-	// Solucion backtracking al problema
+	// Solucion backtracking
 	private static ArrayList<Moneda> backtrackingCambio(int cambio, ArrayList<Moneda> monedas,
 			ArrayList<Moneda> solucion, ArrayList<Moneda> actual) {
 

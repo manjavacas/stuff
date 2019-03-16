@@ -1,2 +1,0 @@
-# Implementaciones
-Incluye varias implementaciones

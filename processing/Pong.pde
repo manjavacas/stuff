@@ -1,4 +1,3 @@
-
 // Single-player Pong game
 // Antonio.Manjavacas
 
@@ -36,7 +35,7 @@ void draw() {
     fill(255, 255, 255);
     text("GAME OVER", width/2, height/2);
     textSize(20);
-    text("Press click to restart", width/2, height/2 + 50);
+    text("Press ENTER or click to restart", width/2, height/2 + 50);
     end = true;
     noLoop();
   }

@@ -1,5 +1,6 @@
 
 // Antonio Manjavacas
+// Simple paint implementation
 // Sistemas Interactivos 2019
 
 // icon selection flags

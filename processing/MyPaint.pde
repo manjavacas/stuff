@@ -1,7 +1,7 @@
 
 // Antonio Manjavacas
 // Simple paint implementation
-// Sistemas Interactivos 2019
+// Dis. de Sistemas Interactivos 2019
 
 // icon selection flags
 boolean selLine = false;

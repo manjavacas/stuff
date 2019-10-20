@@ -55,7 +55,6 @@ void mousePressed() {
 }
 
 void mouseReleased() {
-
   // save current position
   if (mouseX > 100) {
     x2 = mouseX;

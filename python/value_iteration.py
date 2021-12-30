@@ -54,7 +54,7 @@ class MDP:
         return self.rewards[state.id]
 
 
-def visualize(states, width, height, title):
+def visualize(states, title):
     values = np.zeros((HEIGHT, WIDTH))
     for state in states:
         values[state.x][state.y] = state.value
@@ -89,4 +89,4 @@ if __name__ == '__main__':
     mdp.value_iteration()
 
     # Visualization
-    visualize(states, HEIGHT, WIDTH, title='Final values')
+    visualize(states, title='Final values')

@@ -1,1 +1,1 @@
-Repository with some simple implementations and utils
+Repository with some basic implementations and utils

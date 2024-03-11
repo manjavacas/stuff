@@ -1,0 +1,11 @@
+#!/bin/bash
+
+N_MAX=1000000000
+V_MAX=10
+i=10
+
+while [ $i -lt $N_MAX ]
+do
+    ./a.out $i $V_MAX
+    i=$((i * 1000))
+done

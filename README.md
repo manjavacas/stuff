@@ -1,1 +1,1 @@
-📦 Basic implementations and utils in multiple languages.
+📦 Some basic **implementations** and **utils** in multiple languages.

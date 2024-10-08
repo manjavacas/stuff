@@ -1,3 +1,1 @@
-## About
-
-Includes some basic implementations and utils in multiple languages.
+📦 Basic implementations and utils in multiple languages.
